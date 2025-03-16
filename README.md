@@ -1,6 +1,6 @@
 # Flask Web Development Essentials
 
-![Flask Logo](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png)
+![Flask Logo](https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png)
 
 A comprehensive Flask web development project showcasing core concepts, including dynamic routing, templating, RESTful API design, and HTTP methods implementation.
 
